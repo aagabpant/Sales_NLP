@@ -1,0 +1,272 @@
+Main Question
+Are there information security requirements for Protecting Application Services Transactions?
+What is the password history before reuse?
+What controls are in place for accessing production systems?
+Is this system developed and tested using secure coding standards and practices?
+"What kind of AI is in use?
+- Deep Learning
+- Generative AI
+- Machine Learning"
+Does the organization maintain criteria and conditions that trigger conducting a PIA?
+"Does your organization ensure that no live data, especially personal data, is used in test/development environments?"
+"Does the product include recommendations on the hardening or best practice configuration, including the default state of the product?"
+Has this client application/system been a part of a PCI DSS audit in the last 12 months?
+Are you a provider of health benefit services?
+Does your company have an individual or group responsible for security within the organization?
+Do you comply with any request from the client to delete personal data (which includes deleting from all systems)?
+Which network and device security controls are implemented?
+"If access data is compromised, is it changed immediately after this becomes apparent?"
+Does the information security policy (or policies) cover email use?
+What backup media is supported and do you use standard or proprietary methodologies?
+"Provide Security architecture landscape/diagram for both models: (includes but is not limited to endpoint,
+internet/network, server, and DR)
+1. On-premise model
+2. Cloud model"
+For which of these does your company establish and maintain baseline configurations and inventories?
+"Do you conduct an annual assessment to determine if the techniques/procedures utilized to dispose of PII (e.g. deletion, de-identification, cryptographic erasure) have become possible for the client data that has been put beyond use?"
+What User Interfaces are supported out-of-box? What UIs typically need to be built?
+Can the Non-Prod environment be fully integrated into the client's real-time and batch Non-Prod environment?
+Do you have data processing agreements with all your subcontractors? Explain.
+"Do you have a process to maintain oversight on your third parties, subcontractors, labor hire and recruitment agencies, franchisees, etc., adhering to all relevant labor laws? Please share details of the process."
+Is Ad-Hoc or batched report generation supported?
+Is there any acceptable usage guidance in place for systems and applications?
+What time and dates for doing backups (placed during the day)? (e.g. every day at night)
+Is centralized known good input validation in place to help prevent SQL injection?
+"Does the supplier notify the entity of any vulnerabilities in its products or services promptly, ensuring it does not increase threat vectors?"
+"What are the authentication factors used to access web applications that capture, display, or interface with confidential information?"
+"Regarding your General Liability insurance, please provide the following: 1) name of your carrier; 2) coverage level (both per occurrence and aggregate); and 3) confirmation that the policy is paid in full and currently in force."
+How will the use of AI be documented in the information used to make decisions?
+"Within the last 12 months, has the company contracted with an unbiased third party to perform a penetration test and a vulnerability assessment of systems that process, store, or transmit client or client's employee data? If yes, please explain the assessments that were performed."
+"How would you like the account management team supporting the client to be outlined? Would you prefer to know their titles and locations, or is there another aspect you're interested in?"
+Do system and application owners periodically review and continuously manage access based on usage and appropriateness?
+"Does the company have membership in any organizations promoting supplier diversity (e.g., The National Minority Supplier Diversity Council (NMSDC), Women Business Enterprise National Council (WBENC), etc)?"
+"Does your company have a Third-Party Management process that includes a risk assessment process, due diligence practices, contract structuring and review routines, and ongoing monitoring oversight?"
+Is your organization required to undergo a Payment Card Industry (PCI) Quality Security Assessor (QSA) audit covering the scope of your services and systems relevant to the engagement?
+"Are instructions available for server sanitization (i.e., instructions for how to achieve the permanent deletion of personal or other sensitive data)?"
+Is Bot detection available?
+Can a single instance support authentication from multiple Active Directory domains?
+Do you provide an automated defect-tracking process for System changes and Enhancements?
+Do you have a documented process/system to monitor compliance with consent and withdrawal of consent?
+Has your company been served with a Prohibition or Improvement notice for any breaches of Health & Safety legislation in the last five years?
+Does the company have a board and/or management-approved mobile devices management program?
+"If you have a business continuity plan, on which frequency it's exercised and can you provide us with a summary of the results of the latest test?"
+"Regarding the aforementioned automated records retention, will the capabilities be enabled for the services provided?"
+Does the hosting company follow the best practices defined in the ISO/IEC 27001; 27017; and 27018 standards?
+Are there firewall rules in place that manage access to the respective data from each Business unit?
+"Which application server does your platform support? (e.g. WebSphere, Jboss, Tomcat, Other, etc.) Please specify."
+"Upon successful login, does a message indicate the last time of successful login?"
+Are WAF logs forward to the SIEM for analysis and alerting?
+What policies are configured for restricting customers' Personally Identifiable Information (PII) leakage from the system?
+"Are confidential disposal bins in the office securely managed, and are shredders available to personnel as needed?"
+"Are the application security tests done by an external, independent, and publicly known company?"
+Has the organization been subject to any enforcement actions by regulators for breaches of relevant Occupational Health and Safety (OHS) legislation or an EU directive in the last three years?
+"After completing a change to the application, do you require your customers to perform testing to validate the integrity and availability of their information?"
+Does your company require you to complete a mutual NDA?
+Please describe your training programs for new and existing employees/contractors.
+Does your solution support ACA EDGE Server?
+Is access to client data limited only to specific users with a business requirement and reviewed at least annually?
+Are there any REST API authentication methods?
+"Does the vendor provide services that may create an environmental exposure (storage of or handling of oil, gas, other toxic waste, etc.)?"
+Do your employees have access to personal email or social media sites / social networks?
+Please describe the company/user data you require to provide your service.
+"Please provide the requirements for employees to re-authenticate when attempting to elevate privileges to a higher security level (i.e. ""sudo/su"" for Linux/Mac, ""run as"" for Windows)."
+Please confirm that the client data will be hosted in an environment dedicated to the client.
+"Do you provide a private cloud option, please explain how isolation is achieved for the OS instances running in this private cloud with respect to other OS instances running in your infrastructure."
+Does your service delete data after a certain period?
+What data integration options are available?
+"How do you protect your data center against viral, malware, and phishing threats?"
+Does your solution support shared and personal devices?
+Does the service provider ensure that its processes and policies are compliant with relevant country data protection laws of the client's operating countries?
+Is software usage in accordance with contract agreements and copyright laws?
+"Please describe the architecture of this web based application.
+(i.e. web servers, middleware, platform etc.)"
+Is there a formal sign-off process in your organization to confirm when remediation of identified issues is fully implemented?
+"Can you integrate directly with our directories, and if so, how?"
+Do you maintain a formal Breach Disclosure Plan detailing processes to be followed in the event of a security or privacy incident that results in a potential disclosure of the client data?
+"Does your organization follow secure coding standards to help ensure the suppression of vulnerable code and promote the inclusion of applicable security features? If yes, please provide the standard."
+Are security event logs protected and retained per defined logging requirements?
+Please provide details about the datacenter and country where the data would be stored.
+"Please specify whether the system is capable of limiting the number of logon attempts, with a lock-out period for repeated failed logon attempts."
+Are there formal opening and lock-up routines that guards must follow for the site?
+"Can you share the SLAs for Low, Medium, and High Priority Tickets?"
+How do you receive new information on cyber security?
+"Can you select the physical measure(s) you have taken to control access to the areas/premises in which the Data (Personal Data, Cardholder Data, and/or Financial-related Data) is accessed, handled, and/or processed?
+- Badge-reading system/access cards/biometrics to prevent unauthorized access
+- CCTV operations
+- Controlled-access facilities
+- Escort-only entry for visitors
+- Locked file cabinets / locked rooms
+- Security guards
+- not applicable"
+"Please confirm if the following items are currently installed/enabled on corporate/internal computer systems:
+- LDAP/AD authenticated source for employee machines
+- LDAP/AD authenticated source for in-house servers
+- Antivirus installed on employee machines
+- Antivirus installed on in-house servers
+- Full disk encryption on employee machines
+- Second factor of authentication to access internal services like Google or Office 365
+- External media storage devices are disabled"
+"Do you have an anti-virus & anti-malware solution deployed covering every endpoint in your infrastructure? If yes, please provide details."
+Is there any provision for inactive user cleanup?
+"Do you evaluate, test, and apply information system patches in a timely fashion according to their risk?"
+What is the protocol for managing and declaring a disaster within an organization?
+Is data encrypted in transit and at rest? What protocols are used?
+"Do you have an incident response plan that covers monitoring, detection, and response for potential threats and security incidents?"
+Does the cloud provider implement processes to prevent side-channel attacks for virtual machine instances?
+Does the company have any employees or resources located outside the U.S.?
+Can we agree on provisions in the contract for investigation? (What would we have access to and how? documentation for auditors?)
+Could you please explain further the requirement for a “completion ID” in order to be able to assist with data subject rights requests?
+Please provide Web Link to the Product Privacy Notice.
+"Is access to systems, applications, and data provisioned according to the principle of least privilege?"
+"When was the last Penetration test carried out on external-facing web portals? If there were any critical/major vulnerabilities reported, were they resolved in a timely manner? Is there a plan in place to look at any medium to low-valued CVSS that were found?"
+What is the number of employees in the Quality Assurance Department?
+Will the offeror describe in detail what network access and bandwidth is required for the proposed solution?
+Does your organization’s strategy include a climate transition plan that aligns with a 1.5°C world? Explain why your organization does not have a climate transition plan that aligns with a 1.5°C world and any plans to develop one in the future.
+Do you have adequate timing to observe the impact of the change before moving forward?
+Does your company have Employers Liability Insurance for bodily injury?
+"Do you have a person in charge of the handling of Personal Information, etc.?"
+"Do you ensure that information involved in application service transactions is protected to prevent incomplete transmission, misrouting, unauthorized message alteration, unauthorized disclosure, unauthorized message duplication, or replay?"
+"Does the organization directly or jointly collect personal data from the individuals (client's employees, prospects, customers etc.) as a part of services provided to the client? If yes, does the organization provide a privacy notice to the individuals before collecting the information?"
+What is the process of uploading historical data on the platform?
+Has sensitive information been cleared from QA and development environments based on need-to-know?
+Does the application have the ability to run a backup concurrently with the operation of the application?
+Does the service provider identify all the sources of cybersecurity risk management and all the risks assessed and monitored?
+Do you set the cookie transmission path to the minimum necessary settings?
+Does your organization require workforce members to take phishing training annually?
+"Does your organization maintain an up-to-date network diagram identifying customers' relevant systems? If yes, please upload the network diagram."
+What is the possibility of leveraging specific capabilities (unbundling the program offering)?
+Is a contract maintained with such fourth parties to require each to adhere to the same legal and contractual requirements that are required by the service organization?
+"Provide information (reports) on penetration tests conducted by external parties, preferably within the last 12 months."
+Are the workforce (where applicable) trained to identify and report if endpoints and assets are missing security updates?
+Does the solution have the ability for authorized users to view the audit logs within the system?
+What approaches does the third party take to patching systems?
+"Do you have training available? If so, what kind?"
+Please describe the development methodology/SDLC used for creating your products/services.
+Is the system HIPAA compliant? Explain how.
+Will application data be securely segregated from the data of other customers?
+Please provide the supplier's key locations.
+Do you provide an automated process to support us in our Scope 1+2 data collection (190+ offices in 70 countries)?
+Are account setting changes logged and retained?
+"Has Sprout Social required vendors, by contract, to immediately return or destroy Personal Information in the vendors’ possession when the contract terminates (or when there is no longer a legitimate business need to possess such Personal Information)?"
+"Please select all password authentication best practices that have been implemented:
+- Minimum password length is 8 characters with full complexity
+- Password rotation once in 90 days or less
+- Account lockout or suspension after 6 failed attempts
+- Password history of 6 previously used passwords stored and restricted from reuse
+- Passwords stored hashed and salted in accordance with industry best practices
+- Password-protected screensaver set to no more than 15 minutes expiry after idle time
+- Denies access whenever an authentication or authorization fails in the application
+- Users validated on every request
+- Other"
+"In the event that authentication/authorization cannot be brokered to the client, what capabilities are provided in the SaaS Solution for the client to manually manage the identity & Access management lifecycle? Does the SaaS has UI for the client user admins to manage users, roles, and access?"
+"What data protection laws are your services subject to (i.e., CCPA/CPRA, GDPR)?
+- CCPA/CPRA
+- GDPR
+- HIPAA
+- LGPD
+- PIPEDA"
+"How do you measure the accuracy, coherence, and relevance of the AI model's generative outputs?"
+"Does your Privacy Notice describe the purposes for which the collected personal data, including sensitive information, will be used?"
+"If software is being developed as part of the solution and there is an external internet-facing function, will an external penetration test be performed?"
+Do you agree to not sell for profit or distribute any client's staff or student data for non-business purposes to any 3rd parties unless explicitly disclosed and agreed upon by the client?
+What is the time interval for a screen lock on an inactive workstation?
+Provide a technical explanation of how you identify injection vulnerabilities for mitigation
+"Is there a management procedure maintained to monitor changes in applicable privacy statutory, regulatory or contractual regulations or contractual obligations?"
+What are the various interface methods that you have experience with for data transport?
+"Will the device run an Antivirus/Antimalware Software? (if not supported, please explain why in the comments)"
+"How long would it take to fully recover their service from the moment of disruption, both technology and business processes, based on their documented plans?"
+"Are there policies, procedures, or mechanisms in place to keep track of external factors and conditions that might impact overall performance (e.g., financial or operational factors)?"
+"Is a software tool/utility used to log complaints/issues? If yes, please identify the application."
+"Is it required to logically segregate backups from production, development, and UAT environments to prevent the spread of malware infections to the backup environment?"
+Should HTTP headers in both requests and responses contain only printable ASCII characters?
+"Do you conform to an IT Governance framework, such as ITIL, CoBIT, or ISO 27001/2? If yes, please indicate which framework(s) below:
+- ITIL - CoBIT
+- ISO 27001/2"
+Does the software or application follow and/or implement Information Security principles such as AAA or AAAA?
+Do you keep security logs for at least 3 months tamper-proof?
+Please mention your Data Centre Certifications.
+Do you have an ethical use policy that addresses the use of AI?
+How can the client obtain regular (quarterly) confirmation that backups are successful? Is there a portal that would tell the client? Would the client raise a support ticket each time? Is there some other way that the client can obtain verification that backups are successful?
+Do you allow consultation in how our web visitors will flow into your provider web solution? How configurable is the home page?
+What is the minimum duration for which your organization stores logs?
+"Please provide the training policy or manual review of the vendor's training program to ensure vendor staff are knowledgeable about laws, regulations, and compliances related to compliance services support provided to organizations."
+Can you provide a copy of your privacy policy?
+What is the formal SLA timeline for patching critical and high vulnerabilities?
+"Can the system be configured to meet the following password requirements (local authentication):
+-must contain a minimum of eight characters;
+-must include at least one character from three of the following four sets: (1) uppercase alpha, (2) lowercase alpha, (3) numeric, and (4) special characters (e.g. #$%@!);
+-must expire or require change at a frequency of ninety days or less;
+-the previous eight passwords must be stored and prevented from re-use;
+-password reset actions in the system by an administrator or other users must use one-time passwords that require the password to be changed upon the first log-in by the user;
+-after not more than five invalid password authentication attempts the account must be disabled or locked;
+-the password must not contain the name of the account (User ID); and
+-stored passwords must be salted and one-way hashed."
+Is there a documented process to notify the client in a timely manor in the event of a contingency?
+Do you utilize defense-in-depth principles in your network architecture to prevent unauthorized access?
+Do you assure reasonable information security across your information supply chain (sub service organizations) by performing an annual review?
+Does the supplier have a product change notification (PCN) process that is compliant with a recognized industry standard?
+"Can you provide details of these locations (such as data center regions, office addresses, etc)?"
+What rights do the residents of Massachusetts and Maine have regarding their personal information?
+Does the organization have a Chief Privacy Officer (CPO) or a functional equivalent?
+Does your organization have a patch management process for minor and major products?
+Are organizational inventories of IT assets periodically (annually at minimum) reviewed for completeness and accuracy?
+Does the organization safeguard power equipment and power cabling for the information system against damage and destruction?
+Is a session expiration set to force the user to log out if there is no activity within a certain period of time for the accounts used internally and by employees?
+"Do you support an integrated experience?
+a. The client provided logos, name, color, fonts, and tone of voice throughout the web and app platforms.
+b. The client's brand name URLs
+c. The client's branded digital (email & texts) and printed member outreach material
+d. The client's branded App name and instance
+e. Customized and personalized customer service interaction"
+"Will you send the client copies of the data and/or content, either at a set timeframe or on request?"
+Do the disciplinary standards state that any violation of the standards will result in appropriate disciplinary action?
+Is in-house application development performed for systems that host company's data?
+Is there a process or agreement for any suspected or actual breaches in information security related to the use of any cloud service to be reported immediately to the client in-line with agreed Service Level Agreements?
+"Is timely de-provisioning, revocation, or modification of user access to the organization's systems, information assets, and data implemented upon any change in the status of employees, contractors, customers, business partners, or third parties?"
+Are Identities and credentials managed for authorized devices and users?
+"Is an asset management policy in place? If yes, please describe the review process and frequency."
+Are changes being made to the system with unique identities?
+"Please describe how the system adheres to relevant safety and data protection regulations (e.g., GDPR, HIPAA) and any certifications that attest to its security and compliance (e.g., ISO 27001)."
+Is a manned reception area or other means to control physical access to the site or building in place?
+Do corporate policy/procedure(s) exist for security awareness and training processes?
+Are processes in place to ensure that connecting systems for supported hardware and software have current patch levels?
+Does your organization conduct Privacy Impact Assessments for the EU-GDPR specific application(s) and/or business processes?
+Do you implement regular password changes and single-use passwords to ensure that user passwords are regularly updated and refreshed?
+"How frequently does the vendor perform security testing (e.g., penetration tests, vulnerability scans)?"
+Are third-party security tests done against in-house developed and third-party applications that have been configured in the environment?
+"Does your VA/PT program include API security testing? If yes, please share the report."
+Are background checks on employees conducted periodically throughout employment with you?
+Do you have an application deployment back-out option?
+Provide information on the frequency and approach of periodic reviews.
+"Do you have dedicated resources for responding to disruptions, generally, and health pandemics (i.e. COVID-19)?"
+"Do the service level agreements/contracts with external suppliers provide for security fixes within a specific timeframe? (i.e., if we identify a serious security weakness in a pen test, do you have a timebound obligation to provide a fix or workaround?)"
+"Does the cloud provider indicate whether or not there is a need for unique system environment configuration dependent on the cloud service, such as specifying the use of a particular development language or database?"
+Are systems and software regularly scanned for vulnerabilities and subsequently patched/remediated?
+"Do all developers get unfettered access to development, testing, and production environments?"
+Do you use temporary IAM credentials retrieved by assuming a role whenever possible?
+"Is a web site supported, hosted, or maintained that has access to Scoped systems and data?"
+"Describe your network defenses (Examples: firewalls, Anti-Malware (AV, whitelisting), IPS, IDS, DDOS Protection, Two-factor authentication, etc.)."
+Please provide the Vendor Address.
+"Where are files primarily hosted?
+- Microsoft 365
+- Google Workspace
+- Dropbox
+- Box
+- Egnyte
+- Private Cloud
+- On-Premise File Server
+- Azure Virtual Server
+- AWS Virtual Server"
+Does the solution integrate access via mobile applications?
+Does the solution require or impact any classified data?
+"If there is a backup of the client’s data, is the data encrypted if placed on tape or other media?"
+Do you perform reviews/analysis on the geographical concentration risk of your subcontractors?
+Is the client notified when an event occurs that may affect the security of their data or processes?
+"Could you provide a network and data flow diagram showing wireless connectivity? Additionally, can you share evidence confirming the correct configuration of all wireless access points used? Furthermore, do you have evidence of regular vulnerability scans for unauthorized wireless access points? Also, what measures are in place to prevent peer-to-peer connections? Moreover, can you describe how encryption and protection are implemented? Lastly, what authentication and authorization methods are utilized?"
+Has the vendor implemented appropriate controls to ensure that it and its personnel only use the client's data to the extent necessary to provide services to the client?
+Does the applicant’s email filtering solution block malicious attachments/suspicious file types including executables?
+Is there a defined exercise regime/schedule focused on key elements of the pandemic or a mass absenteeism plan?
+"Do you have a formal, vendor risk assessment program in place to ensure all third parties that process our data are compliant with the CCPA?"
+Do any of the subcontractors employ workers in non-OECD countries?
+Are any client's data sent to internally and/or externally hosted ML/AI models?
+Detail the support provided by the product for MQ (Message Queue) integration and specify the versions of MQ that are supported.
