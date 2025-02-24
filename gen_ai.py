@@ -8,7 +8,7 @@ import time  # For adding delays if needed
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 #Load the CSV file
-loader = CSVLoader(file_path="C:\\Annoation_Task\\data\\Data Annotaters Task Statements - Sheet1.csv")
+loader = CSVLoader(file_path=r"Data\Data Annotaters.csv")
 documents = loader.load()
 
 # Extract the statements from the CSV
